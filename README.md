@@ -15,7 +15,7 @@ Please go to [releases page](https://github.com/JaredWestley/VirusTotalChecker/r
 #### How to get API key
 It is really simple! All you need to do is to go to [VirusTotal official page](https://www.virustotal.com/), create profile and copy your key.
 
-<img src="assets/1.gif" />
+<img src="asset/api.gif" />
 
 #### How to use
 It is very easy! Drag and drop file into the app and it will upload the file to VirusTotal via their API and open the report for you!
