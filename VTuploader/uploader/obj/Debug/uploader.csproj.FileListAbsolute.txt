@@ -1,0 +1,77 @@
+C:\Users\jared\Desktop\VirusTotalUploader-master\uploader\uploader\build\dbg\uploader.exe.config
+C:\Users\jared\Desktop\VirusTotalUploader-master\uploader\uploader\build\dbg\uploader.exe
+C:\Users\jared\Desktop\VirusTotalUploader-master\uploader\uploader\build\dbg\uploader.pdb
+C:\Users\jared\Desktop\VirusTotalUploader-master\uploader\uploader\build\dbg\DarkUI.dll
+C:\Users\jared\Desktop\VirusTotalUploader-master\uploader\uploader\build\dbg\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jared\Desktop\VirusTotalUploader-master\uploader\uploader\build\dbg\Newtonsoft.Json.dll
+C:\Users\jared\Desktop\VirusTotalUploader-master\uploader\uploader\build\dbg\RestSharp.dll
+C:\Users\jared\Desktop\VirusTotalUploader-master\uploader\uploader\build\dbg\Siticone.UI.dll
+C:\Users\jared\Desktop\VirusTotalUploader-master\uploader\uploader\build\dbg\System.Buffers.dll
+C:\Users\jared\Desktop\VirusTotalUploader-master\uploader\uploader\build\dbg\System.Memory.dll
+C:\Users\jared\Desktop\VirusTotalUploader-master\uploader\uploader\build\dbg\System.Numerics.Vectors.dll
+C:\Users\jared\Desktop\VirusTotalUploader-master\uploader\uploader\build\dbg\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jared\Desktop\VirusTotalUploader-master\uploader\uploader\build\dbg\System.Text.Encodings.Web.dll
+C:\Users\jared\Desktop\VirusTotalUploader-master\uploader\uploader\build\dbg\System.Text.Json.dll
+C:\Users\jared\Desktop\VirusTotalUploader-master\uploader\uploader\build\dbg\System.Threading.Tasks.Extensions.dll
+C:\Users\jared\Desktop\VirusTotalUploader-master\uploader\uploader\build\dbg\System.ValueTuple.dll
+C:\Users\jared\Desktop\VirusTotalUploader-master\uploader\uploader\build\dbg\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jared\Desktop\VirusTotalUploader-master\uploader\uploader\build\dbg\Newtonsoft.Json.xml
+C:\Users\jared\Desktop\VirusTotalUploader-master\uploader\uploader\build\dbg\RestSharp.xml
+C:\Users\jared\Desktop\VirusTotalUploader-master\uploader\uploader\build\dbg\System.Buffers.xml
+C:\Users\jared\Desktop\VirusTotalUploader-master\uploader\uploader\build\dbg\System.Memory.xml
+C:\Users\jared\Desktop\VirusTotalUploader-master\uploader\uploader\build\dbg\System.Numerics.Vectors.xml
+C:\Users\jared\Desktop\VirusTotalUploader-master\uploader\uploader\build\dbg\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jared\Desktop\VirusTotalUploader-master\uploader\uploader\build\dbg\System.Text.Encodings.Web.xml
+C:\Users\jared\Desktop\VirusTotalUploader-master\uploader\uploader\build\dbg\System.Text.Json.xml
+C:\Users\jared\Desktop\VirusTotalUploader-master\uploader\uploader\build\dbg\System.Threading.Tasks.Extensions.xml
+C:\Users\jared\Desktop\VirusTotalUploader-master\uploader\uploader\build\dbg\System.ValueTuple.xml
+C:\Users\jared\Desktop\VirusTotalUploader-master\uploader\uploader\obj\Debug\uploader.csproj.AssemblyReference.cache
+C:\Users\jared\Desktop\VirusTotalUploader-master\uploader\uploader\obj\Debug\uploader.csproj.SuggestedBindingRedirects.cache
+C:\Users\jared\Desktop\VirusTotalUploader-master\uploader\uploader\obj\Debug\uploader.MainForm.resources
+C:\Users\jared\Desktop\VirusTotalUploader-master\uploader\uploader\obj\Debug\uploader.Properties.Resources.resources
+C:\Users\jared\Desktop\VirusTotalUploader-master\uploader\uploader\obj\Debug\uploader.SettingsForm.resources
+C:\Users\jared\Desktop\VirusTotalUploader-master\uploader\uploader\obj\Debug\uploader.UploadForm.resources
+C:\Users\jared\Desktop\VirusTotalUploader-master\uploader\uploader\obj\Debug\uploader.csproj.GenerateResource.cache
+C:\Users\jared\Desktop\VirusTotalUploader-master\uploader\uploader\obj\Debug\uploader.csproj.CoreCompileInputs.cache
+C:\Users\jared\Desktop\VirusTotalUploader-master\uploader\uploader\obj\Debug\uploader.csproj.CopyComplete
+C:\Users\jared\Desktop\VirusTotalUploader-master\uploader\uploader\obj\Debug\uploader.exe
+C:\Users\jared\Desktop\VirusTotalUploader-master\uploader\uploader\obj\Debug\uploader.pdb
+C:\Users\jared\Desktop\VirusTotalUploader-master - Copy\uploader\uploader\build\dbg\uploader.exe.config
+C:\Users\jared\Desktop\VirusTotalUploader-master - Copy\uploader\uploader\build\dbg\uploader.exe
+C:\Users\jared\Desktop\VirusTotalUploader-master - Copy\uploader\uploader\build\dbg\uploader.pdb
+C:\Users\jared\Desktop\VirusTotalUploader-master - Copy\uploader\uploader\build\dbg\DarkUI.dll
+C:\Users\jared\Desktop\VirusTotalUploader-master - Copy\uploader\uploader\build\dbg\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jared\Desktop\VirusTotalUploader-master - Copy\uploader\uploader\build\dbg\Newtonsoft.Json.dll
+C:\Users\jared\Desktop\VirusTotalUploader-master - Copy\uploader\uploader\build\dbg\RestSharp.dll
+C:\Users\jared\Desktop\VirusTotalUploader-master - Copy\uploader\uploader\build\dbg\Siticone.UI.dll
+C:\Users\jared\Desktop\VirusTotalUploader-master - Copy\uploader\uploader\build\dbg\System.Buffers.dll
+C:\Users\jared\Desktop\VirusTotalUploader-master - Copy\uploader\uploader\build\dbg\System.Memory.dll
+C:\Users\jared\Desktop\VirusTotalUploader-master - Copy\uploader\uploader\build\dbg\System.Numerics.Vectors.dll
+C:\Users\jared\Desktop\VirusTotalUploader-master - Copy\uploader\uploader\build\dbg\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jared\Desktop\VirusTotalUploader-master - Copy\uploader\uploader\build\dbg\System.Text.Encodings.Web.dll
+C:\Users\jared\Desktop\VirusTotalUploader-master - Copy\uploader\uploader\build\dbg\System.Text.Json.dll
+C:\Users\jared\Desktop\VirusTotalUploader-master - Copy\uploader\uploader\build\dbg\System.Threading.Tasks.Extensions.dll
+C:\Users\jared\Desktop\VirusTotalUploader-master - Copy\uploader\uploader\build\dbg\System.ValueTuple.dll
+C:\Users\jared\Desktop\VirusTotalUploader-master - Copy\uploader\uploader\build\dbg\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jared\Desktop\VirusTotalUploader-master - Copy\uploader\uploader\build\dbg\Newtonsoft.Json.xml
+C:\Users\jared\Desktop\VirusTotalUploader-master - Copy\uploader\uploader\build\dbg\RestSharp.xml
+C:\Users\jared\Desktop\VirusTotalUploader-master - Copy\uploader\uploader\build\dbg\System.Buffers.xml
+C:\Users\jared\Desktop\VirusTotalUploader-master - Copy\uploader\uploader\build\dbg\System.Memory.xml
+C:\Users\jared\Desktop\VirusTotalUploader-master - Copy\uploader\uploader\build\dbg\System.Numerics.Vectors.xml
+C:\Users\jared\Desktop\VirusTotalUploader-master - Copy\uploader\uploader\build\dbg\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jared\Desktop\VirusTotalUploader-master - Copy\uploader\uploader\build\dbg\System.Text.Encodings.Web.xml
+C:\Users\jared\Desktop\VirusTotalUploader-master - Copy\uploader\uploader\build\dbg\System.Text.Json.xml
+C:\Users\jared\Desktop\VirusTotalUploader-master - Copy\uploader\uploader\build\dbg\System.Threading.Tasks.Extensions.xml
+C:\Users\jared\Desktop\VirusTotalUploader-master - Copy\uploader\uploader\build\dbg\System.ValueTuple.xml
+C:\Users\jared\Desktop\VirusTotalUploader-master - Copy\uploader\uploader\obj\Debug\uploader.csproj.AssemblyReference.cache
+C:\Users\jared\Desktop\VirusTotalUploader-master - Copy\uploader\uploader\obj\Debug\uploader.csproj.SuggestedBindingRedirects.cache
+C:\Users\jared\Desktop\VirusTotalUploader-master - Copy\uploader\uploader\obj\Debug\uploader.SummaryForm.resources
+C:\Users\jared\Desktop\VirusTotalUploader-master - Copy\uploader\uploader\obj\Debug\uploader.MainForm.resources
+C:\Users\jared\Desktop\VirusTotalUploader-master - Copy\uploader\uploader\obj\Debug\uploader.Properties.Resources.resources
+C:\Users\jared\Desktop\VirusTotalUploader-master - Copy\uploader\uploader\obj\Debug\uploader.SettingsForm.resources
+C:\Users\jared\Desktop\VirusTotalUploader-master - Copy\uploader\uploader\obj\Debug\uploader.UploadForm.resources
+C:\Users\jared\Desktop\VirusTotalUploader-master - Copy\uploader\uploader\obj\Debug\uploader.csproj.GenerateResource.cache
+C:\Users\jared\Desktop\VirusTotalUploader-master - Copy\uploader\uploader\obj\Debug\uploader.csproj.CoreCompileInputs.cache
+C:\Users\jared\Desktop\VirusTotalUploader-master - Copy\uploader\uploader\obj\Debug\uploader.csproj.CopyComplete
+C:\Users\jared\Desktop\VirusTotalUploader-master - Copy\uploader\uploader\obj\Debug\uploader.exe
+C:\Users\jared\Desktop\VirusTotalUploader-master - Copy\uploader\uploader\obj\Debug\uploader.pdb
