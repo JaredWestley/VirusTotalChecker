@@ -17,7 +17,7 @@ This is not my own source, [SamuelTulach](https://github.com/SamuelTulach/VirusT
 This is not an officially supported application. It was created because official VirusTotal desktop app is unmaintained. If you are afraid, you can build it from source by yourself. Also please don't download it from any third-party sites.
 
 #### Download (<a href="https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net48-web-installer"><img alt="GitHub release" src="https://img.shields.io/badge/Requires-.NET%20Framework%204.8%20(or later)-blue"></a>)
-Please go to [releases page](https://github.com/JaredWestley/VirusTotalChecker/releases) to download compiled app and installer. *Don't forget to star the repo!*
+Please go to [releases page](https://github.com/JaredWestley/VirusTotalChecker/releases) to download the compiled app and installer. *Don't forget to star the repo!*
 
 #### How to get API key
 It is really simple! All you need to do is to go to [VirusTotal official page](https://www.virustotal.com/), create profile and copy your key.
