@@ -5,9 +5,9 @@
 
 ### Screenshots
 <p float="left">
-  <img alt="Home Page" src="asset/uploader_wQfP1saGtX.png" width="200"/>
-  <img alt="Settings Page" src="asset/uploader_E9QHnJkGWD.png" width="200"/>
-  <img alt="Upload Page" src="asset/uploader_s9U2rQu7AT.png" width="200"/>
+  <img alt="Home Page" src="asset/uploader_wQfP1saGtX.png" width="250"/>
+  <img alt="Settings Page" src="asset/uploader_E9QHnJkGWD.png" width="250"/>
+  <img alt="Upload Page" src="asset/uploader_s9U2rQu7AT.png" width="250"/>
 </p>
 
 #### Credits
