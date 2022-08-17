@@ -3,6 +3,13 @@
 <p align="center">
 </p>
 
+### Screenshots
+<p float="left">
+  <img alt="Home Page" src="asset/uploader_wQfP1saGtX.png" width="320"/>
+  <img alt="Settings Page" src="asset/uploader_E9QHnJkGWD.png" width="320"/>
+  <img alt="Upload Page" src="asset/uploader_s9U2rQu7AT.png" width="320"/>
+</p>
+
 #### Credits
 This is not my own source, [SamuelTulach](https://github.com/SamuelTulach/VirusTotalUploader) is behind the base code of this project. I have only modified the UI and some of the underlying code, plus I have decided to only release a setup version of the app to streamline it.
 
